@@ -1,0 +1,9 @@
+<!-- bottom_navigation_item_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Selected state -->
+    <item android:state_checked="true">
+        <color android:color="@android:color/black" />
+    </item>
+    <!-- Default state -->
+    <item android:color="@android:color/white" />
+</selector>
